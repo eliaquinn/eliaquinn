@@ -10,7 +10,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=eliaquinn&show_icons=true&theme=nightowl)
 ### Mande um oi 😃
 ![Instagram](https://img.shields.io/badge/-eliaquimpjaraujo-05122A?style=flat&logo=instagram)&nbsp;
-![Linkedin](https://img.shields.io/badge/eliaquin_araujo-05122A/?style=flat&logo=linkedin)&nbsp;
 ![Email](https://img.shields.io/badge/eliaquimunderlinejordan-05122A/?style=flat&logo=gmail)&nbsp;
 
 ### Minha Stacks:
