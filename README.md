@@ -10,7 +10,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=eliaquinn&show_icons=true&theme=nightowl)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=eliaquinn&layout=compact&theme=nightowl&hide_borderr=true)
 ### Mande um oi 😃
-![<img src="https://img.shields.io/badge/eliaquimpfaraujo-6726eb?style=flat&logo=instagram" />](https://img.shields.io/badge/-eliaquimpjaraujo-05122A?style=flat&logo=instagram)&nbsp;
+![<img src="https://img.shields.io/badge/eliaquimpfaraujo-6726eb?style=flat&logo=instagram" />](https://www.instagram.com/eliaquimpfaraujo/)&nbsp;
 ![Email](https://img.shields.io/badge/eliaquimunderlinejordan-05122A/?style=flat&logo=gmail)&nbsp;
 
 ### Minha Stacks:
