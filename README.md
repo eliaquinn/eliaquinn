@@ -11,6 +11,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=eliaquinn&layout=compact&theme=nightowl&hide_borderr=true)
 ### Mande um oi 😃
 ![<img src="https://img.shields.io/badge/eliaquimpfaraujo-6726eb?style=flat&logo=instagram" />](https://www.instagram.com/eliaquimpfaraujo/)&nbsp;
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&color=d93a7c&logoColor=white" />](https://www.linkedin.com/in/nataliakrein/) 
 ![Email](https://img.shields.io/badge/eliaquimunderlinejordan-05122A/?style=flat&logo=gmail)&nbsp;
 
 ### Minha Stacks:
