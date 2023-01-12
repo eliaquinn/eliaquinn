@@ -6,9 +6,6 @@
 ## Olá, me chamo Eliaquin Araújo! 👋😎
 ### *Gostaria de um café?* ☕
 ---
-### GitHub Analytics
-![](https://github-readme-stats.vercel.app/api?username=eliaquinn&show_icons=true&theme=nightowl)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=eliaquinn&layout=compact&theme=nightowl&hide_borderr=true)
 ### Mande um oi 😃
 [<img src="https://img.shields.io/badge/eliaquimpfaraujo-6726eb?style=flat&logo=instagram" />](https://www.instagram.com/eliaquimpfaraujo/)
 
